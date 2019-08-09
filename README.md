@@ -1,2 +1,2 @@
-# markedjs-presentations
-My repository of markedjs based presentations
+# Remarkjs Presentations
+My repository of remarkjs based presentations
